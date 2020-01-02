@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecf3ca5b-841c-429c-a9bc-ed2fd6829bcd" name="Default Changelist" comment="">
+    <list default="true" id="ecf3ca5b-841c-429c-a9bc-ed2fd6829bcd" name="Default Changelist" comment="Merge branch 'master' of https://github.com/tania-asimi/react-image-fade-in-onLoad&#10;&#10;# Conflicts:&#10;#&#9;README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <updated>1577954843911</updated>
       <workItem from="1577954845385" duration="1202000" />
       <workItem from="1577956070579" duration="2261000" />
-      <workItem from="1577961548324" duration="1437000" />
+      <workItem from="1577961548324" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="setup react app">
       <created>1577956690557</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577956845821</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit workspace.xml">
+      <created>1577964986847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577964986847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,16 +104,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup react app" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup react app" />
+    <MESSAGE value="commit workspace.xml" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/tania-asimi/react-image-fade-in-onLoad&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/tania-asimi/react-image-fade-in-onLoad&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577962885930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1577962885930" />
+    <state x="252" y="33" key="CommitChangelistDialog2" timestamp="1577965164275">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="252" y="33" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577965164275" />
+    <state x="167" y="95" key="DiffContextDialog" timestamp="1577965153618">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="167" y="95" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1577965153618" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1577962960285">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577962960285" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1577964997193">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1577964997193" />
   </component>
 </project>
